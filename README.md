@@ -14,3 +14,5 @@ http://chat.codergv.com
 
 
 http://www.youtube.com/watch?v=9WxvRP5gwhA
+
+http://scotch.io/bar-talk/the-complete-visual-guide-to-sublime-text-3-getting-started-and-keyboard-shortcuts
