@@ -8,6 +8,7 @@ https://moqups.com/
 http://balsamiq.com/  
 http://www.tokbox.com/blog/having-fun-at-startup-weekend/  
 https://stripe.com/
+http://devdocs.io/
  
 
 http://chat.codergv.com 
