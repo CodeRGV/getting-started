@@ -27,3 +27,4 @@ This repository contains files, tools, and instructions on how to get started wi
 * http://goo.gl/zlXJPl <-- learn to use sublime 3
 * http://codeschool.com  <-- some free interactive introduction courses on some basic web technologies
 * Quora (particularly [this](https://www.quora.com/Learning-to-Program/What-are-the-best-resources-sites-books-or-tutorials-for-learning-programming) question) <-- excellent resource for where and how to learn programming
+* [E-books](https://drive.google.com/folderview?id=0B6K2B2YjelHvOTFfQVlWSHJQOG8&usp=sharing)
