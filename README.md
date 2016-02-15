@@ -6,7 +6,7 @@ getting-started
 This repository contains files, tools, and instructions on how to get started with git and programming in general.
 
 **Organization**
-* http://chat.codergv.com  <-- Chat site
+* http://codergv.org/chat  <-- Chat site
 * http://www.youtube.com/watch?v=9WxvRP5gwhA  <-- git hub for teams and organizations
 * http://www.tokbox.com/blog/having-fun-at-startup-weekend/  <-- getting the most out of our time at events
 * http://appsembler.com/blog/10-tips-for-hackathon-success/  <-- getting the most out of our time at events
