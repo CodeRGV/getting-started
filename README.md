@@ -1,6 +1,8 @@
 getting-started
 ===============
 
+![Join us on Slack](https://slackin5dc0.azurewebsites.net/badge.svg)
+
 This repository contains files, tools, and instructions on how to get started with git and programming in general.
 
 **Organization**
